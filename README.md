@@ -4,6 +4,8 @@
 📚 I'm a student at <a href="https://www.uef.edu.vn/"> University of Economics and Finance </a> in Ho Chi Minh City, Viet Nam <br>
 💞️ More about Sunny, by the way, I want to be a professional front-end developer.
 
+https://github.com/Shunadesu/Img-in-readme.md/assets/97121943/e01676a8-2d97-4d53-8cc2-54db93246058
+
 
 <h2>  More about me </h2>
 
