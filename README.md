@@ -7,7 +7,7 @@
 <h2>  More about me  </h2>
 
 - 👀 I’m interested in making UI website.
-- 🌱 I’m currently learning JavaScript, Sass.
+- 🌱 I love coffee.
 - 💞️ I’m looking for front-end job.
 - 📫 Contact me: namp280918@gmail.com or <a href ="https://www.facebook.com/Sunny.pnhn"> facebook </a>
 
