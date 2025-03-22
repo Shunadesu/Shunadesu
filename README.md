@@ -8,7 +8,7 @@
 
 - 👀 I’m interested in making UI website.
 - 🌱 I love coffee and sweet things.
-- 💞️ I’m looking for front-end job.
+- 💞️ I’m working at Bach Long Store.
 - 📫 Contact me: namp280918@gmail.com or <a href ="https://www.facebook.com/Sunny.pnhn"> facebook </a>
 
 <h2> 🛠️ Languages and Tools </h2>
