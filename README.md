@@ -1,7 +1,5 @@
 
-<h2> 👋 Hi, I'm Sunny </h2>
-<h2>  More about me  </h2>
-
+<h2>  Hi, I'm Sunny </h2>
 - 👀 I’m interested in making UI website.
 - 🌱 I love coffee and sweet things.
 - 💞️ I’m working at Bach Long Mobile.
