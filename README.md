@@ -1,9 +1,5 @@
 
 <h2> 👋 Hi, I'm Sunny </h2>
-
-📚 I graduated from the <a href="https://www.uef.edu.vn/"> University of Economics and Finance </a> in Ho Chi Minh City, Viet Nam <br>
-💞️ More about Sunny, by the way, I want to be a professional front-end developer.
-
 <h2>  More about me  </h2>
 
 - 👀 I’m interested in making UI website.
