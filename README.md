@@ -4,7 +4,7 @@
 - 👀 I’m interested in making UI website.
 - 🌱 I love coffee and sweet things.
 - 💞️ I’m working at Bach Long Mobile.
-- 📫 Contact me: namp280918@gmail.com or <a href ="https://www.facebook.com/Sunny.pnhn"> facebook </a>
+- 📫 Contact me: namp280918@gmail.com
 
 <h2> 🛠️ Languages and Tools </h2>
 <p align="left">
