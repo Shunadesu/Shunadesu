@@ -83,7 +83,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Shunadesu&theme=default&hide_border=true&background=0D1117&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" alt="GitHub Streak" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Shunadesu&theme=default&hide_border=true" alt="GitHub Streak" height="165" />
 </div>
 
 <div align="center">
